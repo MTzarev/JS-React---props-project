@@ -12,5 +12,5 @@ function BookList () {
             <button onClick={()=> console.log (`clicked`)}>Modify</button>
             </>    
     )
-}
-export default BookList
+};
+export default BookList;
